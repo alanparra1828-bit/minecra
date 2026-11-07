@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Build output
+builds/
+outputs/
+*.packdir
+
+# Editors / OS
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/

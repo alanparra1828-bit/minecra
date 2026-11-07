@@ -1,0 +1,3 @@
+# Verdant Reverie - runtime requirements
+# Pillow is required to generate the pack's procedural artwork.
+Pillow>=10.0.0
